@@ -172,3 +172,13 @@ hr {
 .showcase-blog {
     padding-bottom: 6rem;
 }
+
+
+@media only screen and (max-width: 768px) {
+
+     #personal {
+        display: none;
+    }
+
+
+}
